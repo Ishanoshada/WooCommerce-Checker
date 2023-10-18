@@ -1,9 +1,9 @@
 # WooCommerce Checker
 
 ![GitHub stars](https://img.shields.io/github/stars/ishanoshada/WooCommerce-Checker?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/Ishanoshada/WooCommerce-Checker?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/Ishanoshada/WooCommerce-Checker?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/Ishanoshada/WooCommerce-Checker?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/ishanoshada/WooCommerce-Checker?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/ishanoshada/WooCommerce-Checker?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/ishanoshada/WooCommerce-Checker?style=flat-square)
 
 WooCommerce Checker is a Python script designed to check if WooCommerce is installed on WordPress websites. It uses the `requests` library for making HTTP requests and provides a simple command-line interface for input.
 
@@ -38,7 +38,7 @@ python woocommerce_checker.py logins.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Ishanoshada/WooCommerce-Checker.git
+git clone https://github.com/ishanoshada/WooCommerce-Checker.git
 ```
 
 2. Install the required libraries:
