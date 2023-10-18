@@ -1,20 +1,64 @@
+# WooCommerce Checker
+
+![GitHub stars](https://img.shields.io/github/stars/Ishanoshada/WooCommerce-Checker?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/Ishanoshada/WooCommerce-Checker?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Ishanoshada/WooCommerce-Checker?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/Ishanoshada/WooCommerce-Checker?style=flat-square)
+
 WooCommerce Checker is a Python script designed to check if WooCommerce is installed on WordPress websites. It uses the `requests` library for making HTTP requests and provides a simple command-line interface for input.
 
+
 ## Features
+
 - Automatically checks multiple WordPress login URLs with corresponding usernames and passwords.
 - Logs successful logins and WooCommerce installations for further analysis.
 - Utilizes multiprocessing for concurrent URL checking.
 
+## Table of Contents
+
+- [Usage](#usage)
+- [Installation](#installation)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+
 ## Usage
+
 1. Create a text file containing WordPress login URLs along with usernames and passwords, separated by '|'.
 2. Run the script and provide the path to the input file.
 3. The script will attempt to log in and check for WooCommerce installations.
 
-## Requirements
-- Python 3.x
-- requests library
-- colorama library
-
-## Usage Example
 ```bash
 python woocommerce_checker.py logins.txt
+```
+
+> Note: This script is for educational purposes and should only be used on websites you have explicit permission to test.
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Ishanoshada/WooCommerce-Checker.git
+```
+
+2. Install the required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+## How to Contribute
+
+Contributions are welcome! Here's how you can get started:
+
+1. Fork the repository.
+2. Create a new branch (e.g., `feature-new-feature` or `bug-fix-issue`).
+3. Make your changes.
+4. Commit your changes and push to your forked repository.
+5. Create a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
