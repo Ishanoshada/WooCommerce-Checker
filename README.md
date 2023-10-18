@@ -1,6 +1,6 @@
 # WooCommerce Checker
 
-![GitHub stars](https://img.shields.io/github/stars/Ishanoshada/WooCommerce-Checker?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/ishanoshada/WooCommerce-Checker?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/Ishanoshada/WooCommerce-Checker?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/Ishanoshada/WooCommerce-Checker?style=flat-square)
 ![GitHub license](https://img.shields.io/github/license/Ishanoshada/WooCommerce-Checker?style=flat-square)
