@@ -54,6 +54,7 @@ git clone https://github.com/ishanoshada/WooCommerce-Checker.git
 ```bash
 pip install -r requirements.txt
 ```
+**Repository Views** ![Views](https://profile-counter.glitch.me/WooCommerceWeb/count.svg)
 
 ## How to Contribute
 
